@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Contact Us</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4a90e2;
+            text-align: center;
+        }
+        .section {
+            background-color: #e6f7ff;
+            border: 2px solid #4a90e2;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+        .section p {
+            margin: 5px 0;
+        }
+        .contact-info a {
+            text-decoration: none;
+            color: #4a90e2;
+            font-weight: bold;
+        }
+        .feedback-section {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .feedback-textarea {
+            width: 95%;
+            height: 100px;
+            border: 2px solid #4a90e2;
+            border-radius: 8px;
+            padding: 10px;
+            resize: none;
+            font-size: 18px;
+        }
+        .feedback-button {
+            background-color: #4a90e2;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            margin-top: 10px;
+            font-size: 18px;
+        }
+    </style>
+    <script>
+        function sendFeedback() {
+            const feedback = document.getElementById("feedback").value;
+            if (feedback.trim() === "") {
+                alert("Please enter your feedback before sending.");
+            } else {
+                alert("Feedback sent successfully!");
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Online Examination System</h1>
+        <div class="feedback-section">
+            <textarea id="feedback" class="feedback-textarea" placeholder="Enter your feedback here..."></textarea>
+            <button class="feedback-button" onclick="sendFeedback()">Send Feedback</button><br><br>
+        </div>
+        <h2>Contact Us</h2>
+        <div class="section">
+            <p><b>Name:</b> Gaurav Rajendra Patil</p>
+            <p><b>&#x2709; Email:</b> <a href="mailto:gp949958@example.com">gp949958@example.com</a></p>
+            <p><b>&#x260E; Mobile:</b> <a href="tel:+917875335539">+91 7875335539</a></p>
+        </div>
+        <div class="section">
+            <p><b>Name:</b> Vinod Ramdas Mangate</p>
+            <p><b>&#x2709; Email:</b> <a href="mailto:vinodmangate52@example.com">vinodmangate52@example.com</a></p>
+            <p><b>&#x260E; Mobile:</b> <a href="tel:+919699171841">+91 9699171841</a></p>
+        </div>
+        <div class="section">
+            <p><b>Name:</b> Vitthal Rajesh Nirmal</p>
+            <p><b>&#x2709; Email:</b> <a href="mailto:vitthalnirmal172@example.com">vitthalnirmal172@example.com</a></p>
+            <p><b>&#x260E; Mobile:</b> <a href="tel:+917498604273">+91 7498604273</a></p>
+        </div>
+    </div>
+</body>
+</html>
