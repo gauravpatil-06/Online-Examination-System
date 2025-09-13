@@ -27,5 +27,5 @@ Educational institutes, training centers, and recruitment tests looking for a se
 ⚡ 𝗫𝗔𝗠𝗣𝗣 – Local development & deployment <br>
 📂 𝗽𝗵𝗽𝗠𝘆𝗔𝗱𝗺𝗶𝗻 – Database management <br>
 📧 𝗣𝗛𝗣 𝗠𝗮𝗶𝗹𝗲𝗿 – Email functionality <br>
-🛡 𝗪𝗲𝗯 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 – Authentication, SQL injection prevention, session handling
+🛡 𝗪𝗲𝗯 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 – Authentication, SQL injection prevention, session handling <br>
 🖥 𝗩𝗦 𝗖𝗼𝗱𝗲 / 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔 – Coding & debuggin <br>
