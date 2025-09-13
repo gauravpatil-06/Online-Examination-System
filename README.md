@@ -41,7 +41,7 @@ Educational institutes, training centers, and recruitment tests looking for a se
 
 ## 📸 Project Screenshots:
 
-# 🌐 𝗨𝘀𝗲𝗿 𝗥𝗼𝗹𝗲
+🌐 𝗨𝘀𝗲𝗿 𝗥𝗼𝗹𝗲
 
 🔐 𝗟𝗼𝗴𝗶𝗻 𝗣𝗮𝗴𝗲 – 𝗦𝗲𝗰𝘂𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀 𝗳𝗼𝗿 𝘂𝘀𝗲𝗿𝘀 & 𝗮𝗱𝗺𝗶𝗻𝘀
 <img width="1051" height="592" alt="image" src="https://github.com/user-attachments/assets/00c2fd78-580b-4bd2-9f58-7f0a9ec2b88d" />
@@ -70,7 +70,7 @@ Educational institutes, training centers, and recruitment tests looking for a se
 👨‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 𝗣𝗮𝗴𝗲 – 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
 <img width="1051" height="595" alt="image" src="https://github.com/user-attachments/assets/edc2f273-c9a7-4b5b-9e63-c0e5c3e480a7" />
 
-# 🛠️ 𝗔𝗱𝗺𝗶𝗻 𝗥𝗼𝗹𝗲
+🛠️ 𝗔𝗱𝗺𝗶𝗻 𝗥𝗼𝗹𝗲
 
 🏠 𝗔𝗱𝗺𝗶𝗻 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲 – 𝗠𝗮𝗻𝗮𝗴𝗲 𝗾𝘂𝗶𝘇𝘇𝗲𝘀 & 𝗿𝗲𝘀𝘂𝗹𝘁𝘀
 <img width="1051" height="593" alt="image" src="https://github.com/user-attachments/assets/72d513d9-40e9-40b2-bdee-58d458787b57" />
