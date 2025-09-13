@@ -41,3 +41,60 @@ Educational institutes, training centers, and recruitment tests looking for a se
 
 ## 🔄 Flowchart
 ![php](https://github.com/user-attachments/assets/c1908c84-628d-4345-b951-13cb78414baf)
+
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
+## 📂 Project Directory Structure
+
+```bash
+├── .vscode/
+│   └── settings.json
+├── About US.html
+├── Contact US.html
+├── README.md
+├── account.php
+├── admin.php
+├── css/
+│   ├── bootstrap-theme.min.css
+│   ├── bootstrap.min.css
+│   ├── emty.txt
+│   ├── font.css
+│   └── main.css
+├── dash.php
+├── dbConnection.php
+├── feed.php
+├── feedback.php
+├── fonts/
+│   ├── emty.txt
+│   ├── glyphicons-halflings-regular.eot
+│   ├── glyphicons-halflings-regular.svg
+│   ├── glyphicons-halflings-regular.ttf
+│   ├── glyphicons-halflings-regular.woff
+│   ├── glyphicons-halflings-regular.woff2
+│   ├── gothic.ttf
+│   └── typo.ttf
+├── image/
+│   ├── CAM00121.jpg
+│   ├── Gaurav_Patil.jpg
+│   ├── bg.jpg
+│   ├── bg1.jpg
+│   ├── cd-icon-menu.svg
+│   ├── emty.md
+│   ├── facebook.webp
+│   ├── instagram.webp
+│   ├── telegram.webp
+│   ├── vinod_mangate.jpg
+│   └── vitthal_nirmal.jpg
+├── index.php
+├── js/
+│   ├── bootstrap.js
+│   ├── bootstrap.min.js
+│   ├── emty.txt
+│   ├── jquery.js
+│   ├── main.js
+│   └── modernizr.js
+├── login.php
+├── logout.php
+├── project.sql
+├── sign.php
+└── update.php
