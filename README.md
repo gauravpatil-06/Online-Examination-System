@@ -70,18 +70,16 @@ This system ensures **secure online exams**, **instant evaluation**, and a **rel
 
 ## 📚 Skills & Technologies Used
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-</p>
+| Skill / Technology | Description |
+|------------------|-------------|
+| 🎨 HTML5, CSS3, JavaScript | Frontend UI design & client-side validations |
+| 💻 PHP | Backend application logic |
+| 🗄 MySQL | Database storage, queries & CRUD operations |
+| ⚡ XAMPP | Local server setup, testing & deployment |
+| 📂 phpMyAdmin | Database administration & management |
+| 📧 PHP Mailer | Email notifications & communication |
+| 🛡 Web Security | Authentication, SQL injection prevention, sessions |
+| 🖥 VS Code / IntelliJ IDEA | Development, debugging & project management |
 
 ---
 
