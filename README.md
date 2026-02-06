@@ -1,155 +1,130 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90"/>
 </p>
 
-<h1 align="center">🖥️📚 Online Examination System – PHP</h1>
+<h1 align="center">🍔 Fast Food Ordering System – Advanced Java</h1>
 
 <p align="center">
-  🚀 A secure and scalable web-based online examination platform built using PHP & MySQL  
+  🚀 A professional desktop-based food ordering application built using <b>Advanced Java (Swing + JDBC)</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP-purple?logo=php"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-orange"/>
+  <img src="https://img.shields.io/badge/Technology-Advanced%20Java-orange?logo=java"/>
+  <img src="https://img.shields.io/badge/GUI-Java%20Swing-purple"/>
+  <img src="https://img.shields.io/badge/Database-JDBC%20(MySQL%2FOracle)-blue"/>
   <img src="https://img.shields.io/badge/Status-Completed-success"/>
 </p>
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 📘 About the Project
 
-The **Online Examination System** is a **web-based examination platform** developed using  
-**PHP, MySQL, HTML, CSS, and JavaScript**.
+The **Fast Food Ordering System** is a **real-world desktop application** developed using  
+**Advanced Java (Swing + JDBC)**.
 
-It is designed to **digitize and secure the examination process** for educational institutes, training centers, and recruitment assessments by providing role-based access, automated evaluation, and real-time result generation.
+It is designed to digitize the food ordering process for **canteens, cafés, and small food outlets**, allowing users to browse menus, place orders, manage profiles, and track order history.
 
-The system focuses on **security, fairness, and ease of use**.
+The project demonstrates **GUI development, database connectivity, validation, and real-world Java application design**.
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🌍 Project Overview
 
-🎓 This platform allows:
-- Students to attempt online exams securely  
-- Admins to manage quizzes, questions, and results  
-- Automatic evaluation with instant result display  
-- Ranking and performance tracking  
+🍽️ This system allows users to:
+- Browse food menus with images, prices, ratings, and discounts  
+- Add items to cart and place orders  
+- Automatically generate bills and order summaries  
+- Manage user profiles and view order history  
+- Simulate payment confirmation  
 
-💡 Built to demonstrate **real-world web application development using PHP & MySQL**.
+💡 Built to showcase **real-life use of Advanced Java in desktop applications**.
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🔧 Key Features
 
 | Module | Description |
 |------|-------------|
-| 🔑 Secure Login & Registration | Password encryption, session handling |
-| ❓ Randomized Questions | Prevents cheating using question shuffling |
-| ⏱ Countdown Timer | Auto-submit exam on time expiry |
-| 📊 Instant Results | Automatic evaluation with score display |
-| 🛠 Admin Panel | Manage quizzes, questions, users, and results |
-| 💾 Database Integration | Users, questions, results, feedback, rankings |
-| 📝 Feedback System | Students can submit feedback post exam |
-| 📜 Exam History & Ranking | View past attempts and leaderboard |
-| 🌐 Remote Access | Exams can be taken from anywhere |
-| 🔒 Security Measures | SQL injection prevention, CAPTCHA, sessions |
+| 🔐 Splash & Login System | Secure login and registration with input validation |
+| 👤 User Profile Management | Register, update, and manage customer information |
+| 🍔 Menu & Ordering | Food cards with images, pricing, ratings, and discounts |
+| 🧾 Order Processing | Cart management, billing, and order history |
+| 💾 JDBC Database Integration | CRUD operations using MySQL / Oracle |
+| 🌐 Swing Tabbed Interface | Home, Orders, Profile, About Us, Contact Us |
+| 🔑 Validation & Security | Strong input validation and error handling |
+| 📞 Interactive Contact | Click-to-call and email support |
+| ⭐ Feedback System | Users can rate and review food items |
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
-## 🎯 Ideal Use Case
+## 🎯 Ideal For
 
-✔ Educational institutes  
-✔ Training & coaching centers  
-✔ Online assessments & mock tests  
-✔ Academic PHP mini / major projects  
+✔ College canteens  
+✔ Cafés & food stalls  
+✔ Academic Advanced Java projects  
+✔ Desktop-based billing & ordering system demos  
 
-The system ensures **secure exams**, **instant evaluation**, and **scalable performance**.
+This system helps reduce **manual errors**, improve **order accuracy**, and provide a **digital ordering experience**.
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 📚 Skills & Technologies Used
 
-| Technology | Purpose |
-|-----------|---------|
-| PHP | Backend application logic |
-| MySQL | Database & CRUD operations |
-| HTML5 / CSS3 | Frontend UI |
-| JavaScript | Client-side validation |
-| XAMPP | Local server & deployment |
-| phpMyAdmin | Database management |
-| PHP Mailer | Email notifications |
-| Web Security | Authentication & session handling |
-| VS Code | Development & debugging |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45"/>
+</p>
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 📸 Project Screenshots
 
-### 👤 User Role
+### 🔐 Authentication – Secure Login  
+![Login Page](https://github.com/user-attachments/assets/8e63ef0b-9614-4e76-9cf6-77c7a42d549b)
 
-**Login Page – Secure Authentication**  
-![Login Page](https://github.com/user-attachments/assets/00c2fd78-580b-4bd2-9f58-7f0a9ec2b88d)
+### 🏠 Dashboard – Food Menu  
+![Home Page](https://github.com/user-attachments/assets/a83a3e1a-5adb-4ee5-8941-dc3addb1b9f7)
 
-**Registration Page – New Account Creation**  
-![Register Page](https://github.com/user-attachments/assets/d66e5d47-6278-42d4-b1ab-f08e3a864efd)
+### 🧾 Order Details – Confirmation  
+![Order Details Page](https://github.com/user-attachments/assets/648cc553-22f9-407d-a587-bda01f6a7e80)
 
-**User Dashboard – Start Quiz & View Scores**  
-![Dashboard](https://github.com/user-attachments/assets/398e928a-9a4e-4930-b5cc-9c6a5b72d683)
+### 📜 Order History – Past Orders  
+![Order History Page](https://github.com/user-attachments/assets/7c0899b0-a3cb-450c-a873-01831b7fe121)
 
-**Quiz Page – Attempt Examination**  
-![Quiz Page](https://github.com/user-attachments/assets/c2c9b7a7-a4c0-405b-a64f-7a60daf92917)
+### 👤 User Profile – Manage Details  
+![Profile Page](https://github.com/user-attachments/assets/b7f0ba8b-ca74-46bc-a349-3c7bea5aded0)
 
-**History Page – Previous Attempts**  
-![History Page](https://github.com/user-attachments/assets/c9704214-d48e-4d8f-aba2-d80d35f757f0)
-
-**Ranking Page – Leaderboard**  
-![Ranking Page](https://github.com/user-attachments/assets/b79459eb-dfc0-49bf-a722-6c6b2c97f2e1)
-
-**Feedback Page – User Feedback Submission**  
-![Feedback Page](https://github.com/user-attachments/assets/d8e8de44-b1f2-48f6-be15-614ac0d19029)
-
----
-
-### 🛠 Admin Role
-
-**Admin Dashboard – Manage Exams & Results**  
-![Admin Home](https://github.com/user-attachments/assets/72d513d9-40e9-40b2-bdee-58d458787b57)
-
-**Add / Remove Quiz – Quiz Management**  
-![Add Quiz](https://github.com/user-attachments/assets/3a88eeb5-70af-48b0-9230-9a57122bd075)
-
-**Result Evaluation – Quiz Results**  
-![Results](https://github.com/user-attachments/assets/7cbc7b5c-0743-452b-9a24-0c3d59f27dbb)
-
-**Database – phpMyAdmin / XAMPP**  
-![Database](https://github.com/user-attachments/assets/37ee1a58-4e65-4864-83d5-c7f23b7baced)
-
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🔄 System Flowchart
 
-![Flowchart](https://github.com/user-attachments/assets/c1908c84-628d-4345-b951-13cb78414baf)
+![Flowchart](https://github.com/user-attachments/assets/94f425a3-f2aa-4b1d-98c6-14a422d87001)
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 📂 Project Directory Structure
 
 ```bash
-├── .vscode/
-├── css/
-├── js/
-├── fonts/
-├── image/
-├── account.php
-├── admin.php
-├── dash.php
-├── dbConnection.php
-├── feedback.php
-├── index.php
-├── login.php
-├── logout.php
-├── project.sql
-├── sign.php
-├── update.php
-└── README.md
+├── .gitignore
+├── .idea/
+├── README.md
+└── src/
+    └── com.fastfood.delivery
+        ├── model/
+        │   └── Custom UI Components
+        ├── ui/
+        │   ├── LoginPage.java
+        │   ├── RegistrationPage.java
+        │   ├── HomePage.java
+        │   ├── OrderDetailsPage.java
+        │   ├── OrderHistory.java
+        │   ├── MyProfile.java
+        │   └── SplashScreen.java
+└── resources/
+    ├── background images
+    ├── food images
+    └── icons
