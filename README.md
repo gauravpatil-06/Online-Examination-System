@@ -5,7 +5,7 @@
 <h1 align="center">🖥️📚 Online Examination System – PHP</h1>
 
 <p align="center">
-  🚀 A web-based examination platform built using <b>PHP & MySQL</b> to simplify and secure the process of conducting online exams.
+  🚀 A professional web-based online examination platform built using <b>PHP & MySQL</b>
 </p>
 
 <p align="center">
@@ -15,29 +15,47 @@
   <img src="https://img.shields.io/badge/Status-Completed-success"/>
 </p>
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
-🚀 A web-based examination platform built using **PHP & MySQL** to simplify and secure the process of conducting online exams.  
-It provides role-based access for Admin, Students, and Evaluators, supports instant result generation, and ensures exam integrity with randomized questions and timers.
+## 📘 About the Project
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+The **Online Examination System** is a **real-world web application** developed using  
+**PHP, MySQL, HTML, CSS, and JavaScript**.
+
+It is designed to digitize and secure the examination process for **educational institutes, training centers, and recruitment platforms**, providing automated evaluation, role-based access, and real-time results.
+
+The project demonstrates **full-stack PHP development, database integration, authentication, and secure exam handling**.
+
+---
+
+## 🌍 Project Overview
+
+🎓 This system allows:
+- Students to attempt exams securely from anywhere  
+- Admins to create, manage, and evaluate quizzes  
+- Automatic result generation with rankings  
+- Secure login, session handling, and exam history tracking  
+
+💡 Built to showcase **real-life use of PHP & MySQL in web-based systems**.
+
+---
 
 ## 🔧 Key Features
 
 | Feature | Description |
 |------|-------------|
-| 🔑 **Secure Login & Registration** | Password encryption with secure session control |
-| ❓ **Randomized Questions** | Question shuffling to reduce chances of cheating |
-| ⏱ **Countdown Timer** | Automatic exam submission after time expiry |
-| 📊 **Instant Results** | Auto evaluation with correct/incorrect marking |
-| 🛠 **Admin Panel** | Add, remove, and manage quizzes, questions & results |
-| 💾 **Database Integration** | Stores users, questions, results, feedback & ranking |
-| 📝 **Feedback System** | Students can submit reviews after exams |
-| 📜 **Exam History & Ranking** | Track previous attempts and leaderboard |
+| 🔑 **Secure Login & Registration** | Password encryption and session management |
+| ❓ **Randomized Questions** | Question shuffling to prevent cheating |
+| ⏱ **Countdown Timer** | Auto-submit exam after time expiry |
+| 📊 **Instant Results** | Automatic evaluation with score calculation |
+| 🛠 **Admin Panel** | Add, remove, and manage quizzes & results |
+| 💾 **Database Integration** | Users, questions, results, feedback & ranking |
+| 📝 **Feedback System** | Students can submit feedback after exams |
+| 📜 **Exam History & Ranking** | View past attempts and leaderboard |
 | 🌐 **Remote Access** | Exams accessible from anywhere |
-| 🔒 **Security Features** | SQL injection prevention, CAPTCHA & session handling |
+| 🔒 **Security Features** | SQL injection prevention, CAPTCHA, sessions |
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
 ## 🎯 Ideal For
 
@@ -46,11 +64,11 @@ It provides role-based access for Admin, Students, and Evaluators, supports inst
 ✔ Recruitment & placement tests  
 ✔ Academic PHP mini & major projects  
 
-This system helps conduct **secure online exams**, enables **instant evaluation**, and provides a **reliable digital examination experience**.
+This system ensures **secure online exams**, **instant evaluation**, and a **reliable digital examination experience**.
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
-## 📚 Skills Learned / Tech Stack Used
+## 📚 Skills & Technologies Used
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
@@ -65,7 +83,7 @@ This system helps conduct **secure online exams**, enables **instant evaluation*
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 </p>
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
 ## 📸 Project Screenshots
 
@@ -77,7 +95,7 @@ This system helps conduct **secure online exams**, enables **instant evaluation*
 📝 **Registration Page – New user account creation**  
 <img src="https://github.com/user-attachments/assets/d66e5d47-6278-42d4-b1ab-f08e3a864efd" />
 
-🏠 **User Home Dashboard – Start quiz & view scores**  
+🏠 **User Dashboard – Start quiz & view scores**  
 <img src="https://github.com/user-attachments/assets/398e928a-9a4e-4930-b5cc-9c6a5b72d683" />
 
 ❓ **Solve Quiz Page**  
@@ -88,9 +106,6 @@ This system helps conduct **secure online exams**, enables **instant evaluation*
 
 📊 **Ranking Page – Global leaderboard**  
 <img src="https://github.com/user-attachments/assets/b79459eb-dfc0-49bf-a722-6c6b2c97f2e1" />
-
-🚪 **Signout Page**  
-<img src="https://github.com/user-attachments/assets/30d4e4db-9f90-4adc-b479-1bc0851f1712" />
 
 💬 **Feedback Page**  
 <img src="https://github.com/user-attachments/assets/d8e8de44-b1f2-48f6-be15-614ac0d19029" />
@@ -111,13 +126,13 @@ This system helps conduct **secure online exams**, enables **instant evaluation*
 📂 **Database – phpMyAdmin / XAMPP**  
 <img src="https://github.com/user-attachments/assets/37ee1a58-4e65-4864-83d5-c7f23b7baced" />
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
-## 🔄 Flowchart
+## 🔄 System Flowchart
 
 <img src="https://github.com/user-attachments/assets/c1908c84-628d-4345-b951-13cb78414baf" />
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
 ## 📂 Project Directory Structure
 
@@ -132,7 +147,6 @@ This system helps conduct **secure online exams**, enables **instant evaluation*
 ├── css/
 │   ├── bootstrap-theme.min.css
 │   ├── bootstrap.min.css
-│   ├── emty.txt
 │   ├── font.css
 │   └── main.css
 ├── dash.php
@@ -140,34 +154,9 @@ This system helps conduct **secure online exams**, enables **instant evaluation*
 ├── feed.php
 ├── feedback.php
 ├── fonts/
-│   ├── emty.txt
-│   ├── glyphicons-halflings-regular.eot
-│   ├── glyphicons-halflings-regular.svg
-│   ├── glyphicons-halflings-regular.ttf
-│   ├── glyphicons-halflings-regular.woff
-│   ├── glyphicons-halflings-regular.woff2
-│   ├── gothic.ttf
-│   └── typo.ttf
 ├── image/
-│   ├── CAM00121.jpg
-│   ├── Gaurav_Patil.jpg
-│   ├── bg.jpg
-│   ├── bg1.jpg
-│   ├── cd-icon-menu.svg
-│   ├── emty.md
-│   ├── facebook.webp
-│   ├── instagram.webp
-│   ├── telegram.webp
-│   ├── vinod_mangate.jpg
-│   └── vitthal_nirmal.jpg
 ├── index.php
 ├── js/
-│   ├── bootstrap.js
-│   ├── bootstrap.min.js
-│   ├── emty.txt
-│   ├── jquery.js
-│   ├── main.js
-│   └── modernizr.js
 ├── login.php
 ├── logout.php
 ├── project.sql
